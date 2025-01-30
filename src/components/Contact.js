@@ -9,18 +9,17 @@ const Contact = () => {
 
         {/* Contact Info */}
         <div className="flex flex-wrap justify-center items-center mt-4 gap-12">
-          <div className="text-center">
-            {/* Using Font Awesome icon */}
+          {/* <div className="text-center">
             <i className="fas fa-map-marker-alt text-xl mb-4 text-secondary"></i>
             <p className="text-secondary-600">
-              401 Abhishek App. Bhatththa Paldi, <br /> Ahmedabad, Gujarat,
+              to be added,if required
               INDIA
             </p>
           </div>
           <div className="text-center">
             <i className="fas fa-phone-alt text-xl mb-4 text-secondary"></i>
-            <p className="text-secondary-600">+91 997 9244 229</p>
-          </div>
+            <p className="text-secondary-600">+91 123 4567 890</p>
+          </div> */}
           <div className="text-center">
             <i className="fas fa-envelope text-xl mb-4 text-secondary"></i>
             <p className="text-secondary-600">reachoutaditishah@gmail.com</p>

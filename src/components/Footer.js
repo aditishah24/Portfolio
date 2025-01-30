@@ -70,12 +70,13 @@ const Footer = () => {
         {/* Contact Section */}
         <div>
           <h3 className="text-lg font-semibold text-white-800 mb-4">Contact</h3>
-          <address className="not-italic">
-            <p>401 Abhishek App. Ahmedabad, Gujarat</p>
-            <p>+91 997 9244 229</p>
+          {/* <address className="not-italic">
+            <p>
+            Address to be added if required</p>
+            <p>+91 123 4567 889</p> */}
             {/* <p>+1 (123)-456-7890</p> */}
             <p>reachoutaditishah@gmail.com</p>
-          </address>
+          {/* </address> */}
         </div>
       </div>
     </footer>
